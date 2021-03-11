@@ -1,0 +1,4 @@
+[submodule "submodule-priv"]
+	path = submodule-priv
+	url = https://github.com/SimoneFalzone/argocd-test-priv-sub.git
+	branch = main
